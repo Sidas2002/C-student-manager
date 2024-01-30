@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1706096057 source:c:\users\sidas\desktop\projektia\c++\something\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+	<map>
+
